@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+p{
+    padding-right: 50%;border: #ffecc9;
+}
