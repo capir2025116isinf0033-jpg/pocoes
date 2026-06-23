@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+p{
+    padding-right: 50%;
+}
+table{
+    border-collapse: collapse;
+    background-origin: padding-box;
+}
+tr{
+    border: 3px solid black;
+}
+td{
+    text-align: center;
+    padding-right: 50%;
+}
