@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+header{
+    background-color: #2f8554;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+}
+.Cabeçalho2{
+    background-color: #3ba76a;
+    padding: 8px;
+}
+.Fundo{
+    padding: 20px;
+}
+tr{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+table{
+    border-collapse: collapse;
+}

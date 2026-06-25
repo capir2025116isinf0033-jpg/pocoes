@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    
+}
+header{
+    background-color: #2f8554;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+}
+.Cabeçalho2{
+    background-color: #3ba76a;
+    padding: 8px;
+}
+.Fundo{
+    padding: 50px;
+}
+.informação{
+    background-color: antiquewhite;
+    padding: 5px;
+    border-radius: 10px;
+}
+p{
+    padding-right: 50%;
+}
+table{
+    border-collapse: collapse;
+    background-origin: padding-box;
+    margin-right: 50%;
+    margin-left: auto;
+}
+tr{
+    border: 3px solid black;
+}
+main {
+    border: 3px solid black
+}
